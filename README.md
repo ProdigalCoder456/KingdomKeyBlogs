@@ -7,4 +7,4 @@
 
 * Sora's keyblades in the series aren't actually blades but work as such due to a magical field he passively controls.
 
-[KingdomKey Blog link] https://github.com/ProdigalCoder456/KingdomKeyBlogs 
+KingdomKey Blog link [https://github.com/ProdigalCoder456/KingdomKeyBlogs] 
